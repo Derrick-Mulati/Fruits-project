@@ -44,5 +44,5 @@ Analyze the results to determine the effectiveness of each method and the improv
 
 Conclude the study by highlighting the success of machine learning methods in classifying date fruit types based on their external appearance features.
 Discuss the implications of the findings and potential applications of the developed models.
-
+![output.png](https://github.com/Derrick-Mulati/Fruits-project/blob/main/output.png)
 
